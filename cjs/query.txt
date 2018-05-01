@@ -1,0 +1,12 @@
+> select * from ec2;
+name: ec2
+---------
+time                    env             instance_count  region
+1525146926536934121     macmillan   0               us-east-1
+1525147062816503398     macmillan   0               us-east-1
+1525147207626945476     macmillan   1               us-east-1
+1525147332663694725     macmillan   1               us-east-1
+1525148245261458024     macmillan   1               us-east-1
+1525148303803162014     macmillan   1               us-east-1
+1525148363923719574     macmillan   1               us-east-1
+1525148423503973780     macmillan   0               us-east-1
